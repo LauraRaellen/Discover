@@ -1,2 +1,0 @@
-# Discorve
-Rocketseat
